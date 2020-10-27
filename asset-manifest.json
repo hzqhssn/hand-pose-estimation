@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hand-pose-estimation/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/hand-pose-estimation/static/js/main.11f3f194.chunk.js",
+    "main.js.map": "/hand-pose-estimation/static/js/main.11f3f194.chunk.js.map",
+    "runtime-main.js": "/hand-pose-estimation/static/js/runtime-main.41fc1b50.js",
+    "runtime-main.js.map": "/hand-pose-estimation/static/js/runtime-main.41fc1b50.js.map",
+    "static/js/2.36385c20.chunk.js": "/hand-pose-estimation/static/js/2.36385c20.chunk.js",
+    "static/js/2.36385c20.chunk.js.map": "/hand-pose-estimation/static/js/2.36385c20.chunk.js.map",
+    "static/js/3.f7eda114.chunk.js": "/hand-pose-estimation/static/js/3.f7eda114.chunk.js",
+    "static/js/3.f7eda114.chunk.js.map": "/hand-pose-estimation/static/js/3.f7eda114.chunk.js.map",
+    "index.html": "/hand-pose-estimation/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/hand-pose-estimation/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.36385c20.chunk.js.LICENSE.txt": "/hand-pose-estimation/static/js/2.36385c20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41fc1b50.js",
+    "static/js/2.36385c20.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.11f3f194.chunk.js"
+  ]
+}
