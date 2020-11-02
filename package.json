@@ -2,7 +2,7 @@
   "name": "hand-pose-estimation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/hzqhssn/Web/",
+  "homepage": "n",
   "dependencies": {
     "@tensorflow-models/handpose": "0.0.6",
     "@tensorflow/tfjs": "^2.7.0",
@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"yarn build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
